@@ -1,4 +1,4 @@
-### Olá! Eu sou a Milena Costa ✋
+### Olá! Eu sou a Milena Andrade ✋
 
 #### Desenvolvedora Salesforce ☁️ 💻
 
