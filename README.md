@@ -19,6 +19,7 @@
 | AWS, HEROKU              | 60%       |
 | HTML, CSS                | 70%       |
 | JS, REACT                | 70%       |
+| VUE, LARAVEL,PHP         | 70%       |
 | PL,SQL                   | 80%       |
 | LWC, Aura                | 80%       |
 | Funcional Salesforce     | 80%       |
